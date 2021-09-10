@@ -1,5 +1,8 @@
 # TyXe: Pyro-based BNNs for Pytorch users
 
+Disclaimer:
+Please note that TyXe moved to https://github.com/TyXe-BDL/TyXe and this codebase here is probably not representing the library in its current shape.
+
 TyXe aims to simplify the process of turning [Pytorch](www.pytorch.org) neural networks into Bayesian neural networks by
 leveraging the model definition and inference capabilities of [Pyro](www.pyro.ai).
 Our core design principle is to cleanly separate the construction of neural architecture, prior, inference distribution
